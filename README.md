@@ -372,34 +372,7 @@ The major advantages of the project are:
 
 
 
-## 18. Limitations
-
-The project is primarily designed for educational and demonstration purposes.
-
-It uses simulated process, memory, deadlock, and disk data for algorithm analysis rather than directly controlling the operating system's actual process scheduler or memory manager.
-
-The Bash monitoring component provides system information through available operating-system commands, so the exact information may vary depending on the operating system and environment.
-
-
-
-## 19. Future Enhancements
-
-The project can be extended in the future by adding:
-
-- Additional CPU scheduling algorithms such as Priority Scheduling and Multilevel Queue.
-- Additional disk scheduling algorithms such as SCAN, C-SCAN, LOOK, and C-LOOK.
-- Page replacement algorithms such as FIFO, LRU, and Optimal.
-- Real-time process monitoring.
-- Graphical visualization of scheduling results.
-- Real-time memory and disk monitoring.
-- More advanced performance analysis.
-- Database support for storing execution results.
-- Cross-platform system monitoring.
-- Automated testing and benchmarking.
-
-
-
-## 20. Conclusion
+## 18. Conclusion
 
 The **OS Resource Manager** provides a practical implementation of major operating-system resource-management concepts using Python and Bash.
 
